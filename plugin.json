@@ -7,16 +7,29 @@
       
         {
             "name": "truyenchuth2",
-            "author": "B2",
+            "author": "HuyZoro",
             "path": "https://github.com/Huyzoro/truyenvbook/raw/refs/heads/main/plugin.zip",
-            "version": 1,
+            "version": 2,
             "source": "https://truyenchuth.info",
             "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/truyenchuth/icon.png",
             "description": "Truyện chữ, truyện tranh tùm lum...",
             "type": "novel"
-        }
+        },
+
+        {
+            "name": "Trùm Truyện",
+            "author": "HuyZoro",
+            "path": "https://github.com/Huyzoro/truyenvbook/raw/refs/heads/main/plugintrumtruyen.zip",
+            "version": 6,
+            "source": "https://trumtruyen.xyz",
+            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/Tr%C3%B9m%20Truy%E1%BB%87n/icon.png",
+            "description": "Đọc truyện trên trang Truyện Full",
+            "type": "novel",
+            "locale": "vi_VN"
+        },
     ]
 }
+
 
 
 
