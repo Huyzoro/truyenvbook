@@ -4,17 +4,6 @@
         "description": "📛🔻📛"
     },
     "data": [
-        {
-            "name": "5in1",
-            "author": "B2",
-            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/5in1/plugin.zip",
-            "version": 70,
-            "source": "https://sangtacviet.app",
-            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/5in1/icon.png",
-            "description": "không còn hỗ trợ",
-            "type": "chinese_novel",
-            "locale": "zh_CN"
-        },
       
         {
             "name": "truyenchuth2",
@@ -25,19 +14,9 @@
             "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/truyenchuth/icon.png",
             "description": "Truyện chữ, truyện tranh tùm lum...",
             "type": "novel"
-        },
-        {
-            "name": "truyenfullCom",
-            "author": "B",
-            "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/truyenfullCom/plugin.zip",
-            "version": 4,
-            "source": "https://truyenfull.com",
-            "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/truyenfullCom/icon.png",
-            "description": "Đọc truyện trên trang Truyện Full",
-            "type": "novel",
-            "locale": "vi_VN"
         }
     ]
 }
+
 
 
