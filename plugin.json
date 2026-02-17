@@ -26,9 +26,10 @@
             "description": "Đọc truyện trên trang Truyện Full",
             "type": "novel",
             "locale": "vi_VN"
-        },
+        }
     ]
 }
+
 
 
 
