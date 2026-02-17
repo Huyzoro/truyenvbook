@@ -8,7 +8,7 @@
         {
             "name": "truyenchuth2",
             "author": "B2",
-            "path": "https://raw.githubusercontent.com/Huyzoro/truyenvbook/blob/main/plugin.zip",
+            "path": "https://github.com/Huyzoro/truyenvbook/raw/refs/heads/main/plugin.zip",
             "version": 1,
             "source": "https://truyenchuth.info",
             "icon": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/truyenchuth/icon.png",
@@ -17,6 +17,7 @@
         }
     ]
 }
+
 
 
 
