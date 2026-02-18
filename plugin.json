@@ -1,7 +1,7 @@
 ﻿{
     "metadata": {
         "author": "B2HuyZoro",
-        "description": "📛🔻📛"
+        "description": "Huy Zoro ne"
     },
     "data": [
       
@@ -15,6 +15,17 @@
             "description": "Truyện chữ, truyện tranh tùm lum...",
             "type": "novel"
         },
+        {
+      "name": "Truyện YY",
+      "author": "vBook",
+      "path": "https://github.com/Huyzoro/truyenvbook/raw/refs/heads/main/plugintruyenyy.zip",
+      "version": 16,
+      "source": "https://truyenyy.co",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/truyenyy/icon.png",
+      "description": "Đọc truyện trên trang Truyện YY",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
 
         {
             "name": "Trùm Truyện",
@@ -29,6 +40,7 @@
         }
     ]
 }
+
 
 
 
