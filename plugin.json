@@ -6,7 +6,7 @@
     "data": [
       
         {
-            "name": "truyenchuth2",
+            "name": "TruyenChuTH2",
             "author": "HuyZoro",
             "path": "https://github.com/Huyzoro/truyenvbook/raw/refs/heads/main/plugin.zip",
             "version": 2,
@@ -16,8 +16,8 @@
             "type": "novel"
         },
         {
-      "name": "Truyện YY",
-      "author": "vBook",
+      "name": "Truyện YY2",
+      "author": "HuyZoro",
       "path": "https://github.com/Huyzoro/truyenvbook/raw/refs/heads/main/plugintruyenyy.zip",
       "version": 16,
       "source": "https://truyenyy.co",
@@ -40,6 +40,7 @@
         }
     ]
 }
+
 
 
 
